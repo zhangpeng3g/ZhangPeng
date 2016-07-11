@@ -13,6 +13,7 @@
 
 - (id)initWithItems:(NSArray *)items frame:(CGRect)frame
 {
+    //aaaaaaaaaaaaaa
     self = [super init];
     if (self) {
         self.frame = frame;
